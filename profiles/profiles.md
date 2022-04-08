@@ -12,3 +12,5 @@ Maxime Fraser Franco
 Twitter: @MFraserFranco
 Github: @quantitative-ecologist
 
+Elizabeth Houghton
+Github: @ElizabethHoughton
